@@ -63,3 +63,5 @@ We aim to automatically classify each complaint into one of the following catego
 1. Open the provided `.ipynb` notebook in [Google Colab](https://colab.research.google.com/).
 2. If any packages are missing, install them when prompted.
 3. Run all the cells to explore the data, train the model, and test predictions.
+
+![Screenshots](screenshots/)
